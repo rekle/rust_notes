@@ -45,3 +45,7 @@ Notes on using the Rust Programming language
 * [The Cargo Book](https://doc.rust-lang.org/stable/cargo/)
 * [Instructions for setting up in VS Code](https://code.visualstudio.com/docs/languages/rust)
 * [Online Rust Langage Compiler](https://play.rust-lang.org)
+* [Rustlings](https://github.com/rust-lang/rustlings)
+* [Cheet Sheet](https://cheats.rs/)
+* [Rust Books](https://rust-lang.org/learn)
+* [Community Support](https://www.rust-;ang.org/community)
