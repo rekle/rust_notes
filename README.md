@@ -40,17 +40,29 @@ Notes on using the Rust Programming language
 
 ## Links
 
+### Rust Language
+
 * [Rust Language Website](https://www.rust-lang.org)
 * [The Rust Programming Language Book](https://doc.rust-lang.org/book/) - Online book documenting the Rust Language
 * [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) - Online book describing Cargo (the Rust build system)
-* [Instructions for setting up in VS Code](https://code.visualstudio.com/docs/languages/rust)
 * [Online Rust Langage Compiler](https://play.rust-lang.org) - Online Rust compiler for learning Rust without having to install it.
+* [Rust Books](https://rust-lang.org/learn)
+
+### Training
+
 * [Rustlings](https://github.com/rust-lang/rustlings) - A series of short Rust programs used to test your knowledge of various Rust concepts.
 * [Cheat Sheet](https://cheats.rs/) - A cheat sheet documenting many Rust features and links to explanations of them in the documentation.
-* [Rust Books](https://rust-lang.org/learn)
-* [Community Support](https://www.rust-;ang.org/community)
-* [Faster Than Lime]https://fasterthanli.me_ - Blog with many articles on learning Rust
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A series of small Rust programs that explain different Rust features
 * [Read Rust](https://readrust.net) A collection of links to various articles about Rust
 * [No Boilerplate](https://www.youtube.com/@NoBoilerplate) - Youtube channel with various short videos on Rust
-* [Rocket.RS](https://rocket.rs) - Rust-based web framework
+* [Faster Than Lime]https://fasterthanli.me_ - Blog with many articles on learning Rust
+* [No Boilerplate Discord](https://noboilerplate.org/discord)
+
+### Using
+
+* [Instructions for setting up in VS Code](https://code.visualstudio.com/docs/languages/rust)
+* [Community Support](https://www.rust-;ang.org/community)
+
+### Libraries
+
+* [Rocket.RS](https://rocket.rs) - Rust-based web framework 
