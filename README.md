@@ -53,3 +53,4 @@ Notes on using the Rust Programming language
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A series of small Rust programs that explain different Rust features
 * [Read Rust](https://readrust.net) A collection of links to various articles about Rust
 * [No Boilerplate](https://www.youtube.com/@NoBoilerplate) - Youtube channel with various short videos on Rust
+* [Rocket.RS](https://rocket.rs) - Rust-based web framework
