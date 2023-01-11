@@ -57,6 +57,7 @@ Notes on using the Rust Programming language
 * [No Boilerplate](https://www.youtube.com/@NoBoilerplate) - Youtube channel with various short videos on Rust
 * [Faster Than Lime]https://fasterthanli.me_ - Blog with many articles on learning Rust
 * [No Boilerplate Discord](https://noboilerplate.org/discord)
+* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
 ### Using
 
