@@ -8,6 +8,8 @@ Notes on using the Rust Programming language
 2. Install Rust: https://www.rust-lang.org/tools/install
     1. macOS or Linux:
         1. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    2. Windows
+       1. Download the appropriate installer for Windows
 3. Restart terminal window
 
 ## Checking Rust Version
