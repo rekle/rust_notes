@@ -61,7 +61,7 @@ Notes on using the Rust Programming language
 
 ### Using
 
-* [Instructions for setting up in VS Code](https://code.visualstudio.com/docs/languages/rust)
+* [Instructions for setting up Rust in VS Code](https://code.visualstudio.com/docs/languages/rust)
 * [Community Support](https://www.rust-;ang.org/community)
 
 ### Libraries
