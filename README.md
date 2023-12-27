@@ -2,6 +2,10 @@
 
 Notes on using the Rust Programming language
 
+## Rust Playground
+
+You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust without installing it.
+
 ## Installing Rust
 
 1. Website: https://www.rust-lang.org
