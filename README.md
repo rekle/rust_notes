@@ -19,24 +19,26 @@ Notes on using the Rust Programming language
 
 ## Setting up Rust in Visual Studio Code
 
-### Initial Setup for Rust Debugging in VS Code
+### Initial Setup for Rust Debugging in VS Code (macOS and Windows)
 
 1. Install 'rust-analyzer' VS Code Extension
-2. Install 'CodeLLDB' VS Code Extension (for MacOS) or 'Microsoft C++' VS Code Extension for Windows
+2. Install 'CodeLLDB' VS Code Extension.
+
+### Creating a new Rust Project
+1. Run 'cargo new <project_name>' from Terminal to create new Rust Project
 
 ### Enabling Debug in a Rust Project 
 
-1. Run 'cargo new <project_name>' from Terminal to create new Rust Project
-2. Run 'code <project_name>' from Terminal to open that project in VS Code
-3. Click on Run & Debug tab in VS Code
-4. Click on "Show all automatic debug configurations"
-5. Click on "Add configuration" in dropdown.
-6. Choose 'LLDB'
-7. Click 'Yes' on the dialog box that pops up.
-8. This will generate a new '.vscode/launch.json' file which will allow debugging.
-9. Set any breakpoints you need in the source.
-10. Go to the Run & Debug tab on VS Code.
-11. Click the Green arrow on the top to start running.
+1. Run 'code <project_name>' from Terminal to open that project in VS Code
+2. Click on Run & Debug tab in VS Code
+3. Click on "Show all automatic debug configurations"
+4. Click on "Add configuration" in dropdown.
+5. Choose 'LLDB'
+6. Click 'Yes' on the dialog box that pops up.
+7. This will generate a new '.vscode/launch.json' file which will allow debugging.
+8. Set any breakpoints you need in the source.
+9. Go to the Run & Debug tab on VS Code.
+10. Click the Green arrow on the top to start running.
 
 ## Links
 
