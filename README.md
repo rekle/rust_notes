@@ -13,7 +13,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
     1. macOS or Linux:
         1. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     2. Windows
-       1. Download the appropriate installer for Windows
+       1. Download and run the appropriate rustup installer for Windows (32 bit or 64 bit)
 3. Restart terminal window
 
 ## Checking Rust Version
