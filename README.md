@@ -52,8 +52,17 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 |---|---|
 | rustc file.rs | Compile the Rust code in the file 'file.rc' |
 | cargo run | Compile and run a debug version of the Rust project in the current folder |
-| cargo build | Build a debug version of the Rust project in the current folder |
+| cargo build | Build a debug version of the Rust project in the current folder.  The executable will be in the file 'target/debug/PROJECT_NAME' |
+| cargo build --release | Build a release version of the Rust project in the current folder.  The executable will be in the file 'target/release/PROJECT_NAME' |
+| cargo check | Checks to see if your Rust program will compile without generating an executable |
 | cargo new PROJECT_NAME | Create a new Rust project named PROJECT_NAME in a folder called PROJECT_NAME under the current folder |
+
+## Common Files
+
+|File|Description|
+|---|---|
+| Cargo.toml | Project file containing configuration settings |
+| main.rs | Main file of the project.  Execution starts here in the main() function. |
 
 
 ## Links
