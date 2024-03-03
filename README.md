@@ -46,6 +46,16 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 9. Go to the Run & Debug tab on VS Code.
 10. Click the Green arrow on the top to start running.
 
+## Basic CLI commands
+
+|Command|Description|
+|---|---|
+| rustc file.rs | Compile the Rust code in the file 'file.rc' |
+| cargo run | Compile and run a debug version of the Rust project in the current folder |
+| cargo build | Build a debug version of the Rust project in the current folder |
+| cargo new PROJECT_NAME | Create a new Rust project named PROJECT_NAME in a folder called PROJECT_NAME under the current folder |
+
+
 ## Links
 
 ### Rust Language
@@ -55,6 +65,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) - Online book describing Cargo (the Rust build system)
 * [Online Rust Langage Compiler](https://play.rust-lang.org) - Online Rust compiler for learning Rust without having to install it.
 * [Rust Books](https://rust-lang.org/learn)
+* [TOML - Tom's Obvious Minimal Language](https://toml.io/en/) - The Rust config file language (usually in the project root in a file called 'Cargo.toml')
 
 ### Training
 
