@@ -63,7 +63,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A series of small Rust programs that explain different Rust features
 * [Read Rust](https://readrust.net) A collection of links to various articles about Rust
 * [No Boilerplate](https://www.youtube.com/@NoBoilerplate) - Youtube channel with various short videos on Rust
-* [Faster Than Lime]https://fasterthanli.me_ - Blog with many articles on learning Rust
+* [Faster Than Lime](https://fasterthanli.me) - Blog with many articles on learning Rust
 * [No Boilerplate Discord](https://noboilerplate.org/discord)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 * [Advent of Code](https://adventofcode.com/) - A series of programming exercises.  It's not Rust specific but can be used for any language.
