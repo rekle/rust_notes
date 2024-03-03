@@ -51,6 +51,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 |Command|Description|
 |---|---|
 | rustc file.rs | Compile the Rust code in the file 'file.rc' |
+| rustc --explain E0308 | Explain a Rust error message, such as E0308 in this example |
 | cargo run | Compile and run a debug version of the Rust project in the current folder |
 | cargo build | Build a debug version of the Rust project in the current folder.  The executable will be in the file 'target/debug/PROJECT_NAME' |
 | cargo build --release | Build a release version of the Rust project in the current folder.  The executable will be in the file 'target/release/PROJECT_NAME' |
@@ -63,6 +64,8 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 |---|---|
 | Cargo.toml | Project file containing configuration settings |
 | main.rs | Main file of the project.  Execution starts here in the main() function. |
+| target/debug/PROJECT_NAME | Name of debug executable for the project named PROJECT_NAME (append .exe for Windows) |
+| target/release/PROJECT_NAME | Name of release executable for the project named PROJECT_NAME (append .exe for Windows) |
 
 
 ## Links
