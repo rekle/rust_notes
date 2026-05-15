@@ -78,6 +78,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * [Online Rust Langage Compiler](https://play.rust-lang.org) - Online Rust compiler for learning Rust without having to install it.
 * [Rust Books](https://rust-lang.org/learn)
 * [TOML - Tom's Obvious Minimal Language](https://toml.io/en/) - The Rust config file language (usually in the project root in a file called 'Cargo.toml')
+* [Rust for C# .NET Developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/)
 
 ### Training
 
