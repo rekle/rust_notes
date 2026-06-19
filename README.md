@@ -100,6 +100,14 @@ struct Point {
 }
 </code>
 
+#### Printing to stdout / stderr
+
+|Destination|Example|
+|---|---|
+|stdout|println!("Hello stdout!");|
+|stderr|eprintln!("Hello stderr!");|
+
+
 ### Rust Classes / Traits
 
 * [Iterator](https://doc.rust-lang.org/std/iter/trait.Iterator.html) - Iterator methods
