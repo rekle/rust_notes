@@ -84,6 +84,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 #### Rust Terminology
 
 * Traits - Equivalent to Interfaces in other languages.
+* Modules - Equivalent to namespaces in other languages.
 
 ### Rust Classes / Traits
 
