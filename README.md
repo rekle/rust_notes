@@ -92,20 +92,21 @@ Use by adding <code>#[derive(A,B,C)]</code> before a type definition where A, B,
 
 Example:
 
-<code>
+<pre>
 #[derive(Debug)]
 struct Point {
     x: i32,
     y: i32,
 }
-</code>
+</pre>
 
-#### Printing to stdout / stderr
+#### Printing to stdout / stderr / Others
 
 |Destination|Example|
 |---|---|
-|stdout|println!("Hello stdout!");|
-|stderr|eprintln!("Hello stderr!");|
+|std::io::stdout()|println!("Hello stdout!");|
+|std::io::stderr()|eprintln!("Hello stderr!");|
+|anything that implements std::io:Write|writeln!(writer,"Hello writer!");|
 
 
 ### Rust Classes / Traits
