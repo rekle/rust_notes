@@ -91,6 +91,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * [No Boilerplate Discord](https://noboilerplate.org/discord)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 * [Advent of Code](https://adventofcode.com/) - A series of programming exercises.  It's not Rust specific but can be used for any language.
+* [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
 
 ### Using
 
