@@ -119,6 +119,7 @@ struct Point {
 * [std::io](https://doc.rust-lang.org/std/io/index.html)
 * [std::fs](https://doc.rust-lang.org/std/fs/index.html)
 * [std::net](https://doc.rust-lang.org/std/net/index.html)
+* [std::process](https://doc.rust-lang.org/std/process/index.html)
 
 ### Training
 
@@ -143,3 +144,4 @@ struct Point {
 * [Rocket.RS](https://rocket.rs) - Rust-based web framework
 * [clap](https://docs.rs/clap/latest/clap/index.html) - Clap - Rust command line parser
 * [log](https://docs.rs/log/latest/log/) - Structured Rust logging (i.e. info, debug, verbose etc.)
+* [exitcode](https://docs.rs/exitcode/latest/exitcode/) - Defines Unix standard exit code constants
