@@ -86,6 +86,20 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * Traits - Equivalent to Interfaces in other languages.
 * Modules - Equivalent to namespaces in other languages.
 
+#### Derived traits
+
+Use by adding <code>#[derive(A,B,C)]</code> before a type definition where A, B, and C are the traits to automatically derive.
+
+Example:
+
+<code>
+#[derive(Debug)]
+struct Point {
+    x: i32,
+    y: i32,
+}
+</code>
+
 ### Rust Classes / Traits
 
 * [Iterator](https://doc.rust-lang.org/std/iter/trait.Iterator.html) - Iterator methods
