@@ -141,3 +141,4 @@ struct Point {
 
 * [Rocket.RS](https://rocket.rs) - Rust-based web framework
 * [clap](https://docs.rs/clap/latest/clap/index.html) - Clap - Rust command line parser
+* [log](https://docs.rs/log/latest/log/) - Structured Rust logging (i.e. info, debug, verbose etc.)
