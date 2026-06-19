@@ -93,6 +93,8 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 
 * [std](https://doc.rust-lang.org/std/index.html) - The Rust Standard Library
 * [std::io](https://doc.rust-lang.org/std/io/index.html)
+* [std::fs](https://doc.rust-lang.org/std/fs/index.html)
+* [std::net](https://doc.rust-lang.org/std/net/index.html)
 
 ### Training
 
