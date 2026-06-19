@@ -31,7 +31,7 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 2. Install 'CodeLLDB' VS Code Extension.
 
 ### Creating a new Rust Project
-1. Run 'cargo new <project_name>' from Terminal to create new Rust Project
+1. Run 'cargo new <project_name>' from Terminal to create new Rust Project. A subdirectory named <project_name> will be created in the current folder with the new Rust project.
 
 ### Enabling Debug in a Rust Project 
 
