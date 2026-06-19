@@ -99,4 +99,5 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 
 ### Libraries
 
-* [Rocket.RS](https://rocket.rs) - Rust-based web framework 
+* [Rocket.RS](https://rocket.rs) - Rust-based web framework
+* [clap](https://docs.rs/clap/latest/clap/index.html) - Clap - Rust command line parser
