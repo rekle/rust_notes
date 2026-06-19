@@ -81,13 +81,18 @@ You can use the [Rust Playground](https://play.rust-lang.org/) to try Rust witho
 * [TOML - Tom's Obvious Minimal Language](https://toml.io/en/) - The Rust config file language (usually in the project root in a file called 'Cargo.toml')
 * [Rust for C# .NET Developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/) - Book written by Microsoft developers explaining Rust for developers familiar with C#
 
+#### Rust Terminology
+
+* Traits - Equivalent to Interfaces in other languages.
+
 ### Rust Classes / Traits
 
 * [Iterator](https://doc.rust-lang.org/std/iter/trait.Iterator.html) - Iterator methods
 
-### Common Crates
+### Rust Standard Modules
 
 * [std](https://doc.rust-lang.org/std/index.html) - The Rust Standard Library
+* [std::io](https://doc.rust-lang.org/std/io/index.html)
 
 ### Training
 
